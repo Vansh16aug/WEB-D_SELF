@@ -1,0 +1,10 @@
+.box{
+    width: 100px;
+    margin: 200px;
+    background-color: yellow;
+    transform:translate(10px,20px);
+    transform: rotate(45deg);
+    transform:scale(2);
+    transform: skew(45deg);
+    transform: matrix(1,2,3,4,5,6);
+}
