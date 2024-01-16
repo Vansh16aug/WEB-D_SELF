@@ -133,3 +133,51 @@ hr{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.container6{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    text-align: center;
+    justify-content:center;
+    margin-top: 20px;
+    line-height: 2rem;
+    margin-bottom: 30px;
+}
+.container6 table,tr,td,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.container6 h1{
+    text-align: center;
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+.container6 td th{
+    font-weight: 900;
+}
+#empty{
+    background-color: rgb(240, 240, 101);
+}
+#c316{
+    background-color: aquamarine;
+}
+#p307{
+    background-color: beige;
+}
+#online{
+    background-color: burlywood;
+}
+#once{
+    background-color: antiquewhite;
+}
+#practical{
+    background-color: rgb(197, 238, 240);
+}
+#i219{
+    background-color: rgb(242, 185, 165);
+}
+#i222{
+    background-color: darkgrey;
+}
